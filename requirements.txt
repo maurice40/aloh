@@ -8,5 +8,5 @@ Flask-Restless==0.17.0
 Flask-SQLAlchemy==2.4.1
 marshmallow==3.3.0
 marshmallow-sqlalchemy==0.18.0
-numpy==1.17.4
+numpy==1.22.0
 SQLAlchemy==1.1.2
